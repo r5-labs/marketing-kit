@@ -1,0 +1,8 @@
+COLOR DESCRIPTION	| HEXA		| RGBA
+------------------------|---------------| -----------------------
+Yellow, Primary		| #FFFF99	| 255, 255, 153, 1
+Yellow, Secondary	| #FFFFD0	| 255, 255, 208, 1
+Yellow, Dark Accent	| #333421	| 51, 52, 33, 1
+Dark Deep Blue (Text)	| #202A39	| 32, 42, 57, 1
+
+* These colors are meant to be complement the default R5 Color Scheme, not replace it.

@@ -1,0 +1,9 @@
+COLOR DESCRIPTION	| HEXA		| RGBA
+------------------------|---------------| -----------------------
+Community Red		| #DE1C14	| 222, 28, 20
+Community Orange	| #F37F1E	| 243, 127, 30
+Community Yellow	| #F8B514	| 248, 181, 20
+Community Blue		| #0285BF	| 2, 133, 191
+Community Green		| #00A64C	| 0, 166, 76
+
+* These colors are meant to be complement the default R5 Color Scheme, not replace it.

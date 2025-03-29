@@ -1,0 +1,22 @@
+COLOR DESCRIPTION	| HEXA		| RGBA
+------------------------|---------------| -----------------------
+Teal, Primary		| #459381	| 69, 147, 129, 1
+Teal, Accent		| #0AC18E	| 10, 193, 142, 1
+Teal, Dark		| #265D50	| 38, 93, 80, 1
+Deep Blue, Dark		| #16222B	| 22, 34, 43, 1
+Deep Blue, Regular	| #21303A	| 33, 48, 58, 1
+Deep Blue, Light	| #3E5767	| 62, 87, 103, 1
+
+Black			| #000000	| 0, 0, 0, 1
+White			| #FFFFFF	| 255, 255, 255, 1
+
+Extra Light Gray	| #ECECEC	| 237, 237, 237, 1
+Light Gray		| #C1C1C1	| 193, 193, 193, 1
+Gray			| #7F7F7F	| 127, 127, 127, 1
+Dark Gray		| #535353	| 83, 83, 83, 1
+Extra Dark Gray		| #252525	| 37, 37, 37, 1
+
+Glass Effect #1		| #FFFFFF08	| 255, 255, 255, 0.03
+Glass Effect #2		| #FFFFFF13	| 255, 255, 255, 0.075
+Glass Effect #3		| #FFFFFF0A	| 255, 255, 255, 0.04
+Glass Effect #4		| #FFFFFF80	| 255, 255, 255, 0.5
